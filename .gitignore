@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python (rembg / procesamiento de imágenes)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores
+.vscode/
+.idea/
